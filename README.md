@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">A beautiful and easy to use Console Logger for Dart & Flutter</h3>
+  <h3 align="center">Console Mixin</h3>
 
   <p align="center">
     A beautiful and easy to use Console Logger for Dart & Flutter
